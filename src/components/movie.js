@@ -20,6 +20,7 @@ function Movie () {
         <div>
             {movielist.map((movie) => (
                 <img src={`https://image.tmdb.org/t/p/w200/${movie.poster_path}`} alt={movie.title} />
+                
             ))}
         </div>
     )
