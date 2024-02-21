@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "declaration-colon-newline-after": null,
+    "value-list-comma-newline-after": null,
+    "string-quotes": "single",
+    "font-family-name-quotes": "always-where-recommended"
+  }
+}
